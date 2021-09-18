@@ -25,6 +25,6 @@ function draw() {
 
   //specify the animation instance and its x,y position
   //animation() will update the animation frame as well
-  animation(ghost, 0, 0);
+  animation(ghost, 300, 150);
   // animation(asterisk, 500, 150);
 }
