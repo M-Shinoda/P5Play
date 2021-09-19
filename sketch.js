@@ -17,7 +17,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(screen.width, screen.height);
+  createCanvas(document.body.clientWidth, document.body.clientHeight);
 }
 
 function draw() {
